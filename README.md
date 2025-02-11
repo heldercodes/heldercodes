@@ -17,9 +17,9 @@
 > "I automate things so I have more time to automate things." 🤖
 
 ## 📡 Connect with Me
-- 🌐 **Portfolio**: [Your Website](#)
-- 💼 **LinkedIn**: [Your LinkedIn](#)
-- 🐦 **Twitter**: [Your Twitter](#)
+- 🌐 **Portfolio**: [My Website](#)
+- 💼 **LinkedIn**: [LinkedIn](#)
+- 🐦 **Twitter**: [My Twitter](#)
 
 ## ⚡ Random Dev Meme
 <img src="https://cataas.com/cat/tired/says/I%20Need%20Coffee%20" width="400" />
