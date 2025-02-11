@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Hélder Ferreira | aka "heldercodes"  
+**sudo coding life...**  
 
-<!--
-**heldercodes/heldercodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hacker Vibes](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Here are some ideas to get you started:
+## 🤖 About Me
+- 💻 Full-Time **Software Developer** | **DevOps Enthusiast**
+- 🔥 Passionate about **technology, problem-solving, and continuous learning**
+- 🛠️ Automating life, one shell script at a time
+- 🐧 **Linux Addict** (Yes, I do `rm -rf /` but only on test machines... I think)
+- 🚀 Always learning new tech & breaking things in the process
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Currently Working With
+- Vue.js, Nuxt.js, Supabase, Nitro, Vite
+
+## 😂 Fun Fact
+> "I automate things so I have more time to automate things." 🤖
+
+## 📡 Connect with Me
+- 🌐 **Portfolio**: [Your Website](#)
+- 💼 **LinkedIn**: [Your LinkedIn](#)
+- 🐦 **Twitter**: [Your Twitter](#)
+
+## ⚡ Random Dev Meme
+<img src="https://cataas.com/cat/tired/says/I%20Need%20Coffee%20" width="400" />
