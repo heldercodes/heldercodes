@@ -16,10 +16,11 @@
 ## 😂 Fun Fact
 > "I automate things so I have more time to automate things." 🤖
 
+<img src="https://cataas.com/cat/tired/says/I%20Need%20Coffee%20" width="400" />
+
 ## 📡 Connect with Me
 - 🌐 **Portfolio**: [My Website](#)
 - 💼 **LinkedIn**: [LinkedIn](#)
 - 🐦 **Twitter**: [My Twitter](#)
 
-## ⚡ Random Dev Meme
-<img src="https://cataas.com/cat/tired/says/I%20Need%20Coffee%20" width="400" />
+
