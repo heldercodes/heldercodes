@@ -7,7 +7,7 @@
 - 💻 Full-Time **Software Developer** | **DevOps Enthusiast**
 - 🔥 Passionate about **technology, problem-solving, and continuous learning**
 - 🛠️ Automating life, one shell script at a time
-- 🐧 **Linux Addict** (Yes, I do `rm -rf /` but only on test machines... I think)
+- 🐧 **Coffee & Linux Addicted** (Yes, I do `rm -rf /` but only on test machines... I think)
 - 🚀 Always learning new tech & breaking things in the process
 
 ## 🔧 Currently Working With
