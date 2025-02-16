@@ -19,8 +19,8 @@
 <img src="https://cataas.com/cat/tired/says/I%20Need%20Coffee%20" width="400" />
 
 ## 📡 Connect with Me
-- 🌐 **Portfolio**: [My Website](#)
-- 💼 **LinkedIn**: [LinkedIn](#)
-- 🐦 **Twitter**: [My Twitter](#)
+- 🌐 **Portfolio**: [My Website](https://heldercodes.vercel.app/)
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/helderferreirawd/)
+- 🐦 **Twitter**: [My Twitter](https://x.com/devhelderf)
 
 
